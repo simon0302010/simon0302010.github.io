@@ -1,8 +1,8 @@
-Origin: Aatoz
-Label: Aatoz
+Origin: simon0302010
+Label: simon0302010
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm64
 Components: main
-Description: Aatoz's Repo
+Description: simon0302010's repo
